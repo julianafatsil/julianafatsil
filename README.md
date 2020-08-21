@@ -1,4 +1,4 @@
-# Ola, sou a Juliana, seja bem vindo(a)!! 🤘🏽
+# Ola, Seja bem vindo(a)!! 🤘🏽
 <img align = "right" src=https://static1.conquistesuavida.com.br/ingredients/3/54/52/03/@/24702--ingredient_detail_ingredient-2.png  hspace="20" vspace="5" alt="xícara com café">
 <p> ✌️ Fique a vontade para olhar meus códigos e se tiver algum feedback, sempre é super bem vindo por aqui!</p>
 <p> :woman::computer::heart_eyes: Sou apaixonada por tecnologia, aberta a novas experiências e desafios!</p>
