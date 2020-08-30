@@ -1,5 +1,5 @@
 # Ola, Seja bem vindo(a)!! 🤘🏽
-<img align = "right" src=https://static1.conquistesuavida.com.br/ingredients/3/54/52/03/@/24702--ingredient_detail_ingredient-2.png  hspace="20" vspace="5" alt="xícara com café">
+<img align="right" src="./img/avatar.png"  hspace="20" vspace="5" alt="Meu avatar com uma xícara com café na mão">
 <p> ✌️ Fique a vontade para olhar meus códigos e se tiver algum feedback, será super bem vindo por aqui!</p>
 <p> :woman::computer::heart_eyes: Sou apaixonada por tecnologia, aberta a novas experiências e desafios!</p>
 <p> 🚀📚 No momento estou estudando Desenvolvimento Web Full Stack e aperfeiçoando minhas Soft Skills na <a
