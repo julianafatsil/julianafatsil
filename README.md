@@ -1,5 +1,5 @@
 # Ola, Seja bem vindo(a)!! 🤘🏽
-<img align="right" width="50%" src="./img/avatar.png"  hspace="20" vspace="5" alt="Meu avatar com uma xícara com café na mão">
+<img align="right" width="40%" src="https://github.com/julianafatsil/julianafatsil/blob/master/img/avatar.png?raw=true"  hspace="20" vspace="5" alt="Meu avatar com uma xícara com café na mão">
 <p> ✌️ Fique a vontade para olhar meus códigos e se tiver algum feedback, será super bem vindo por aqui!</p>
 <p> :woman::computer::heart_eyes: Sou apaixonada por tecnologia, aberta a novas experiências e desafios!</p>
 <p> 🚀📚 No momento estou estudando Desenvolvimento Web Full Stack e aperfeiçoando minhas Soft Skills na <a
