@@ -5,7 +5,7 @@
 <p> 🚀📚 No momento estou estudando Desenvolvimento Web Full Stack e aperfeiçoando minhas Soft Skills na <a
     href="https://www.betrybe.com/" 
     alt="Trybe"
-  >Trybe
+  >Trybe, também entrando no universo de UI/UX.
   </a> </p>
   
   ### Tecnologias
