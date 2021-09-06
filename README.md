@@ -126,7 +126,7 @@
           width="40"
       />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/julianafatsil/"
+<a href="https://instagram.com/julianafatsil/"
    target="blank">
      <img
           align="center"
