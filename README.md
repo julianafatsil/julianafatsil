@@ -116,7 +116,7 @@
 
  ## Contato
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julianafatsil@gmail.com)](mailto:julianafatsil@gmail.com)
- <a href="https://linkedin.com/in/https://www.linkedin.com/in/julianafatsil/"
+ <a href="https://linkedin.com/in/julianafatsil/"
     target="blank">
      <img 
           align="center"
