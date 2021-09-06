@@ -137,5 +137,6 @@
      />
 </a>
 
-> Gerado por [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+
+Gerado por [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
