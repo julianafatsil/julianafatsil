@@ -8,7 +8,7 @@
 <p> ✌️ Fique a vontade para olhar meus códigos e se tiver algum feedback, será super bem vindo por aqui! 
 </p>
 
-<p> :woman::computer::heart_eyes: Sou apaixonada por tecnologia, aberta a novas experiências e desafios!
+<p> :woman::computer::heart_eyes: Apaixonada por tecnologia, aberta a novas experiências e desafios!
 </p>
 
 <p> 🚀📚 Sou a Juliana, no momento estou estudando Desenvolvimento Web Full Stack e aperfeiçoando minhas Soft Skills na <a href="https://www.betrybe.com/">Trybe</a>, também entrando no universo de UX/UI com o curso <a href="https://www.uxunicornio.vip"/>UX Unicórnio.</a> Se gostar desses universos e quiser conversar sobre, me chama!  
