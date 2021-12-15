@@ -10,7 +10,30 @@
 
 <p> 🚀📚 Sou apaixonada por tecnologia, plantas, café, series e bons livros, recentemente finalizei o curso Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/">Trybe</a>, também estou entrando no universo de UX/UI com o curso <a href="https://www.uxunicornio.vip"/>UX Unicórnio.</a> Se gostar desses universos e quiser conversar sobre, me chama!
 </p>  
- 
+
+ ## Contato
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julianafatsil@gmail.com)](mailto:julianafatsil@gmail.com)
+ <a href="https://linkedin.com/in/julianafatsil/"
+    target="blank">
+     <img 
+          align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+          alt="https://www.linkedin.com/in/julianafatsil/"
+          height="30"
+          width="40"
+      />
+</a>
+<a href="https://instagram.com/julianafatsil/"
+   target="blank">
+     <img
+          align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+          alt="https://www.instagram.com/julianafatsil/"
+          height="30"
+          width="40"
+     />
+</a>
+
 ## Tecnologias
   
 <p align="left">
@@ -109,31 +132,6 @@
          src="https://github-readme-streak-stats.herokuapp.com/?user=julianafatsil&"
          alt="julianafatsil" />
 </p>
-
-
- ## Contato
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julianafatsil@gmail.com)](mailto:julianafatsil@gmail.com)
- <a href="https://linkedin.com/in/julianafatsil/"
-    target="blank">
-     <img 
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-          alt="https://www.linkedin.com/in/julianafatsil/"
-          height="30"
-          width="40"
-      />
-</a>
-<a href="https://instagram.com/julianafatsil/"
-   target="blank">
-     <img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-          alt="https://www.instagram.com/julianafatsil/"
-          height="30"
-          width="40"
-     />
-</a>
-
 
 Gerado por [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
