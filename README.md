@@ -1,4 +1,4 @@
-# Ola, Seja bem vindo(a)!! 🤘🏽
+# Ola, boas vindas!! 🤘🏽
 <img 
      align="right"
      style=""
