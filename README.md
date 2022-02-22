@@ -8,7 +8,7 @@
 <p> ✌️ Fique a vontade para olhar meus códigos e se tiver algum feedback, será super bem vindo por aqui! 
 </p>
 
-<p> 🚀📚 Sou apaixonada por tecnologia, plantas, café, series e bons livros, recentemente finalizei o curso Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/">Trybe</a>, também estou entrando no universo de UX/UI com o curso <a href="https://www.uxunicornio.vip"/>UX Unicórnio.</a> Se gostar desses universos e quiser conversar sobre, me chama!
+<p> 🚀📚 Sou apaixonada por tecnologia, plantas, café, series e bons livros, também estou entrando no universo de UX/UI com o curso <a href="https://www.uxunicornio.vip"/>UX Unicórnio.</a> Se gostar desses universos e quiser conversar sobre, me chama!
 </p>  
 
  ## Contate me
