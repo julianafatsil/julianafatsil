@@ -208,13 +208,13 @@
 <div align="left">
      <a href="https://github.com/julianafatsil">
      <img 
-          height="160" 
+          height="180" 
           src="https://github-readme-stats.vercel.app/api?username=julianafatsil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
      <img 
-          height="160" 
+          height="180" 
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianafatsil&layout=compact&langs_count=7&theme=dracula"/>
           <img
-         height="160"
+         height="180"
          src="https://github-readme-streak-stats.herokuapp.com/?user=julianafatsil&theme=dracula"
          alt="julianafatsil" />
 </div>
