@@ -9,7 +9,7 @@
 <p> ✌️ Fique a vontade para olhar meus códigos e se tiver algum feedback, será super bem vindo por aqui! 
 </p>
 
-<p> 🚀📚 Educação e tecnologia é que que me move, sou apaixonada por esta combinação 😻, gosto muito de plantas, café, series e bons livros, também estou entrando no universo de UX/UI com o curso <a href="https://www.uxunicornio.vip"/>UX Unicórnio. </a> Se gostar desses universos e quiser conversar sobre, me chama para um cafezinho!
+<p> 🚀📚 Educação e tecnologia é que que me move, sou apaixonada por esta combinação 😍 gosto muito de plantas, café, series e bons livros, também estou entrando no universo de UX/UI com o curso <a href="https://www.uxunicornio.vip"/>UX Unicórnio. </a> Se gostar desses universos e quiser conversar sobre, me chama para um cafezinho!
 </p>  
 </div>
 
