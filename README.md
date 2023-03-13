@@ -9,7 +9,7 @@
 <p> ✌️ Fique a vontade para olhar meus códigos e se tiver algum feedback, será super bem vindo por aqui! 
 </p>
 
-<p> 🚀📚 Educação e tecnologia é que que me move, sou apaixonada por esta combinação! 😍 Gosto muito de plantas, café, series e bons livros, também estou entrando no universo de UX/UI com o curso <a href="https://www.uxunicornio.vip"/>UX Unicórnio. </a> Se gostar desses universos e quiser conversar sobre, me chama para um cafezinho!
+<p> 🚀📚 Educação e tecnologia é que que me move, sou apaixonada por esta combinação! Estou entrando também no universo de UX/UI atualmente cursando o <a href="https://leandrorezende.unifast.com.br/mba-ux-design-3-l1/"/>MBA em UX Researh, Operação de Pesquisa & Liderança em Design. </a> Se gostar desses universos e quiser conversar sobre, me chama para um cafezinho!
 </p>  
 </div>
 
@@ -32,6 +32,14 @@
           alt="julianafatsil"
           height="30" 
           width="40" />
+</a>
+<a 
+   href= "mailto:julianafatsil@gmail.com"
+   target="_blank">
+     <img align="center" 
+          src=https://img.shields.io/badge/Gmail-D14836?stylefor-the-badge&logo=gmail&logoColor=white
+          alt="julianafatsil@gmail.com"
+          height="30" 
 </a>
 </p>
 
